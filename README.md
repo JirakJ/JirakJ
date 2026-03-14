@@ -22,7 +22,7 @@
 🎬  Multimedia & codec specialist — JPEG 2000, HTJ2K, FFmpeg, Metal GPU pipelines
 🎮  Indie game developer — puzzle games on App Store
 🔌  Plugin creator — 35+ JetBrains IDE plugins, VS Code & Safari extensions
-📖  Author — "Think Different: Jak automatizace testování mění svět vývoje"
+📖  Author — "Think Different: How Test Automation Changes the World of Development"
 ✍️  Blogger — thinkdifferent.blog — articles on testing, automation & engineering
 🌐  htmeta.dev — home of the HTMetaWave codec SDK
 🌍  Location: Remote (Czech Republic)
