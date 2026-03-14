@@ -7,6 +7,8 @@
 *I build things that push pixels through GPUs faster than they should go.*
 
 [![Website](https://img.shields.io/badge/jakubjirak.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://jakubjirak.com)
+[![Blog](https://img.shields.io/badge/thinkdifferent.blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thinkdifferent.blog)
+[![HTMeta](https://img.shields.io/badge/htmeta.dev-4A90D9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white)](https://htmeta.dev)
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains_Plugins-35+-000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://github.com/JirakJ/jetbrains-plugins-docs)
 
 </div>
@@ -21,6 +23,8 @@
 🎮  Indie game developer — puzzle games on App Store
 🔌  Plugin creator — 35+ JetBrains IDE plugins, VS Code & Safari extensions
 📖  Author — "Think Different: Jak automatizace testování mění svět vývoje"
+✍️  Blogger — thinkdifferent.blog — articles on testing, automation & engineering
+🌐  htmeta.dev — home of the HTMetaWave codec SDK
 🌍  Location: Remote (Czech Republic)
 ```
 
@@ -94,7 +98,7 @@ Shipping indie puzzle games built with **Swift/SpriteKit** and **Tauri/React** �
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 HTMetaWave
+### 🎬 [HTMetaWave](https://htmeta.dev)
 **High-Throughput JPEG 2000 SDK**
 Production-ready J2K/HTJ2K encoder-decoder with GPU acceleration via Metal, OpenCL, CUDA & Vulkan. Achieves **7-8× faster** encoding with Full HD @ 60 FPS. Built for broadcast, medical imaging & digital cinema.
 
@@ -195,6 +199,8 @@ Massive collection of JetBrains plugins: Metal GPU Monitor, Kubernetes Context G
 If you're into GPU programming, codec engineering, or just want to chat about pushing Apple Silicon to its limits — reach out!
 
 [![Website](https://img.shields.io/badge/🌐_jakubjirak.com-000?style=for-the-badge)](https://jakubjirak.com)
+[![Blog](https://img.shields.io/badge/✍️_thinkdifferent.blog-FF6719?style=for-the-badge)](https://thinkdifferent.blog)
+[![HTMeta](https://img.shields.io/badge/⚡_htmeta.dev-4A90D9?style=for-the-badge)](https://htmeta.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-JirakJ-181717?style=for-the-badge&logo=github)](https://github.com/JirakJ)
 
 </div>
