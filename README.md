@@ -19,8 +19,7 @@
 
 ```
 🔧  Principal Software Engineer — performance-obsessed, shipping real products
-🎬  Multimedia & codec specialist — JPEG 2000, HTJ2K, FFmpeg, Metal GPU pipelines
-🎮  Indie game developer — puzzle games on App Store
+🎬  Multimedia & codec specialist — JPEG 2000, HTJ2K, Metal GPU pipelines
 🔌  Plugin creator — 35+ JetBrains IDE plugins, VS Code & Safari extensions
 📖  Author — "Think Different: How Test Automation Changes the World of Development"
 ✍️  Blogger — thinkdifferent.blog — articles on testing, automation & engineering
@@ -36,13 +35,10 @@
 I specialize in squeezing maximum performance out of Apple Silicon using **Metal 4**, **NEON SIMD**, and custom compute pipelines. My work spans video codecs, image processing, and real-time GPU monitoring — often achieving **5-10× speedups** over industry-standard tools.
 
 ### 🎬 Multimedia & Codecs
-Building production-grade encoders/decoders for **JPEG 2000** and **HTJ2K** — targeting broadcast, medical imaging, and digital cinema. Contributing Metal GPU acceleration to **FFmpeg** and **OpenJPEG** with real-world results: Full HD @ 60 FPS, 4K @ 30 FPS, 85% energy reduction.
+Building production-grade encoders/decoders for **JPEG 2000** and **HTJ2K** — targeting broadcast, medical imaging, and digital cinema. GPU-accelerated via Metal, OpenCL, CUDA & Vulkan with real-world results: Full HD @ 60 FPS, 4K @ 30 FPS, 85% energy reduction.
 
 ### 🔌 Developer Tools Ecosystem
 Creator of **35+ JetBrains IDE plugins** spanning security, architecture, DevOps, and productivity — plus extensions for VS Code and Safari. Highlights include GPU-accelerated SAST scanning (50-100× faster), Metal shader support, Kubernetes safety guards, and architecture decision tracking.
-
-### 🎮 Game Development
-Shipping indie puzzle games built with **Swift/SpriteKit** and **Tauri/React** — from classic Tetris to block puzzles and flow games, all with polished mechanics and App Store presence.
 
 ---
 
@@ -54,11 +50,13 @@ Shipping indie puzzle games built with **Swift/SpriteKit** and **Tauri/React** �
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal_MSL-333?style=flat-square&logo=apple&logoColor=white)
 
 **GPU & Low-Level**
@@ -107,17 +105,6 @@ Production-ready J2K/HTJ2K encoder-decoder with GPU acceleration via Metal, Open
 </td>
 <td width="50%" valign="top">
 
-### ⚡ FFmpeg Metal
-**GPU-Accelerated FFmpeg for Apple Silicon**
-Custom FFmpeg build with Metal 4 compute shaders and NEON SIMD. Delivers **3-6× faster** video scaling, overlay, and deinterlacing with VideoToolbox H.264/HEVC encoding.
-
-`C` `Metal` `NEON SIMD` `VideoToolbox`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🖥️ NativeStudio (SteamForge)
 **Pro Streaming & Recording for macOS**
 OBS alternative built natively for Mac — multistream RTMP, Neural Engine real-time effects, AI background removal & face tracking, virtual camera, and Metal-powered compositing.
@@ -125,6 +112,8 @@ OBS alternative built natively for Mac — multistream RTMP, Neural Engine real-
 `Swift` `Metal` `ScreenCaptureKit` `VideoToolbox`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ VulnSpeed SAST
@@ -134,8 +123,6 @@ JetBrains IDE plugin delivering **50-100× faster** static analysis with <100ms 
 `Kotlin` `GPU Compute` `JetBrains Platform`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Copilot Metrics Dashboard
@@ -145,26 +132,8 @@ Visualization dashboard for GitHub Copilot usage — acceptance rates, active us
 `React` `Next.js` `Azure`
 
 </td>
-<td width="50%" valign="top">
-
-### 🎮 Game Portfolio
-**Indie Puzzle Games for Apple Platforms**
-Collection of polished puzzle games — TetriX (modern Tetris), Block Blaster (grid puzzles), Zen Block Flow, Crystal Drop — all built with Swift/SpriteKit and Tauri.
-
-`Swift` `SpriteKit` `Tauri` `TypeScript`
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📈 Stock Analysis Platform
-**ML-Powered Trading Signals**
-Full-stack stock analysis with Gradient Boosting ML predictions, BUY/SELL signals, portfolio simulation, backtesting engine & pattern scanner. 75+ API endpoints.
-
-`Python` `FastAPI` `Next.js` `ML`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🔌 JetBrains Plugin Suite
@@ -186,7 +155,6 @@ Massive collection of JetBrains plugins: Metal GPU Monitor, Kubernetes Context G
 7-8×  faster JPEG 2000 encoding with GPU acceleration
 50×  faster SAST scanning vs traditional tools  
 6    programming languages covered by security scanner
-75+  API endpoints in stock analysis platform
 4K   @ 30 FPS real-time JPEG 2000 decoding
 ```
 
