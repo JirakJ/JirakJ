@@ -98,31 +98,22 @@ Creator of **35+ JetBrains IDE plugins** spanning security, architecture, DevOps
 
 ### 🎬 [HTMetaWave](https://htmeta.dev)
 **High-Throughput JPEG 2000 SDK**
-Production-ready J2K/HTJ2K encoder-decoder with GPU acceleration via Metal, OpenCL, CUDA & Vulkan. Achieves **7-8× faster** encoding with Full HD @ 60 FPS. Built for broadcast, medical imaging & digital cinema.
+The world's fastest JPEG 2000 codec — **130× faster** than OpenJPEG, **8× faster** than Kakadu. **7,856 FPS** decode and **4,439 FPS** encode at Full HD. Purpose-built for Apple Silicon with Metal 4, NEON SIMD & Neural Engine. Real-time 8K @ 60 FPS.
 
-`C` `Metal 4` `OpenCL` `CUDA` `Vulkan`
+`Swift` `C` `Metal 4` `NEON SIMD` `ANE`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ NativeStudio (SteamForge)
-**Pro Streaming & Recording for macOS**
-OBS alternative built natively for Mac — multistream RTMP, Neural Engine real-time effects, AI background removal & face tracking, virtual camera, and Metal-powered compositing.
+### ♿ Accessibility Compliance Checker Pro
+**WCAG Compliance for JetBrains IDEs**
+Real-time accessibility auditing with **40+ checks** across WCAG 2.0–2.2 (A/AA/AAA), Section 508, ADA Title III & EN 301 549. Instant inspections, AI-powered quick-fixes, keyboard & VoiceOver simulation, and compliance report generation.
 
-`Swift` `Metal` `ScreenCaptureKit` `VideoToolbox`
+`Kotlin` `IntelliJ Platform`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ VulnSpeed SAST
-**GPU-Accelerated Security Scanner**
-JetBrains IDE plugin delivering **50-100× faster** static analysis with <100ms real-time feedback. Covers 6 languages with 95%+ OWASP Top 10 detection rate.
-
-`Kotlin` `GPU Compute` `JetBrains Platform`
-
-</td>
 <td width="50%" valign="top">
 
 ### 📊 Copilot Metrics Dashboard
@@ -132,8 +123,6 @@ Visualization dashboard for GitHub Copilot usage — acceptance rates, active us
 `React` `Next.js` `Azure`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔌 JetBrains Plugin Suite
@@ -152,10 +141,10 @@ Massive collection of JetBrains plugins: Metal GPU Monitor, Kubernetes Context G
 
 ```
 35+  JetBrains IDE plugins built & maintained
-7-8×  faster JPEG 2000 encoding with GPU acceleration
-50×  faster SAST scanning vs traditional tools  
-6    programming languages covered by security scanner
-4K   @ 30 FPS real-time JPEG 2000 decoding
+7856 FPS Full HD decode — world's fastest JPEG 2000 codec
+130× faster than OpenJPEG, 8× faster than Kakadu
+8K   @ 60 FPS real-time JPEG 2000 decoding
+40+  accessibility checks across WCAG 2.0–2.2
 ```
 
 ---
